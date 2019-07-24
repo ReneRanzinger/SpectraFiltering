@@ -19,8 +19,8 @@ After this filtering, only MS2 scans containing a peak with the m/z value, which
 Peaks with smaller intensity values than the specified cut off value will not be considered as the target of this filtering.
 
 ## Download
-[link](https://github.com/ReneRanzinger/SpectraFiltering/releases)
+You can download the latest version from our [release page](https://github.com/ReneRanzinger/SpectraFiltering/releases).
 
 <h3>Note</h3>
 
-To run SpectraFiltering you need to have [64 bit Java JRE 1.8](https://www.oracle.com/technetwork/java/javase/downloads/index.html) installed on your computer. For the creation of an executable file see [instructions](https://github.com/ReneRanzinger/SpectraFiltering/wiki/Instructions).
+To run SpectraFiltering you need to have [64 bit Java JRE 1.8](https://www.oracle.com/technetwork/java/javase/downloads/index.html) installed on your computer. 
