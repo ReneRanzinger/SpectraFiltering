@@ -126,7 +126,7 @@ public class SpectraFilterThread extends ProgressDialogThread {
 				if ( scan == null )
 					continue;
 				// Filters scan
-				if ( this.filterScan(m_parser.rap(i)) )
+				if ( this.filterScan(scan) )
 					lScans.add(i);
 			}
 			// Removes MS1 scan if the flag is true
